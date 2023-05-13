@@ -1,8 +1,7 @@
-package com.sparta.ap;
+package com.sparta.test;
 
-public class Main {
+public class ProgramTest {
     public static void main(String[] args) {
 
     }
-
 }
